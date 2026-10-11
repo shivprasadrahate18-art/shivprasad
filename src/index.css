@@ -1,41 +1,32 @@
 @import "tailwindcss";
 
+
 /* BloodConnect glassmorphism theme */
 
 .glass {
-  background: rgba(255, 255, 255, 0.68);
+  background: rgba(255, 255, 255, 0.65);
   backdrop-filter: blur(18px);
   -webkit-backdrop-filter: blur(18px);
   border: 1px solid rgba(255, 255, 255, 0.8);
   border-radius: 20px;
-  box-shadow: 0 8px 32px rgba(80, 20, 30, 0.10);
-}
-
-.glass-dark {
-  background: rgba(110, 15, 35, 0.72);
-  backdrop-filter: blur(18px);
-  -webkit-backdrop-filter: blur(18px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 20px;
-  color: white;
+  box-shadow: 0 8px 32px rgba(120, 20, 40, 0.10);
 }
 
 .glass-background {
-  background:
-    radial-gradient(circle at 15% 20%,
-      rgba(255, 190, 200, 0.75), transparent 35%),
-    radial-gradient(circle at 85% 75%,
-      rgba(255, 220, 220, 0.8), transparent 35%),
-    linear-gradient(135deg, #fff5f6, #f8e8ec);
   min-height: 100vh;
+  background:
+    radial-gradient(circle at 10% 10%, rgba(255, 190, 200, 0.55), transparent 35%),
+    radial-gradient(circle at 90% 80%, rgba(255, 220, 225, 0.65), transparent 35%),
+    linear-gradient(135deg, #fff7f8, #f7e9ed);
 }
 
 .glass-button {
   background: rgba(190, 25, 55, 0.92);
   color: white;
-  border: 1px solid rgba(255, 255, 255, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 12px;
   padding: 12px 20px;
+  font-weight: 600;
   box-shadow: 0 5px 18px rgba(190, 25, 55, 0.18);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
