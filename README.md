@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BloodConnect – Find Blood, Save Lives
 
 A modern, responsive, and production-grade full-stack healthcare web application designed to connect blood recipients with nearby voluntary blood donors in real time during medical emergencies and scheduled surgeries.
@@ -178,3 +179,16 @@ For fast testing and presentations, one-click demo logins are available on the S
 ## 8. Official Medical & Legal Disclaimer
 
 BloodConnect connects potential voluntary donors with requesters during emergencies. BloodConnect **does not** provide medical advice, diagnosis, or guarantee donor medical eligibility or cross-match compatibility. All blood grouping, infectious disease screening (HIV, Hepatitis, Syphilis), compatibility testing, and transfusions must be executed exclusively by certified blood transfusion facilities and licensed medical practitioners.
+=======
+<div align="center">
+
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+  <h1>Built with AI Studio</h2>
+
+  <p>The fastest path from prompt to production with Gemini.</p>
+
+  <a href="https://aistudio.google.com/apps">Start building</a>
+
+</div>
+>>>>>>> 1b1762c0e1f860c66adba55b07748a81275750ed
