@@ -1,0 +1,8 @@
+{
+  "name": "BloodConnect – Find Blood, Save Lives",
+  "description": "A modern healthcare platform connecting emergency blood recipients with nearby registered donors, featuring real-time donor search, emergency blood requests, donor dashboards, and administrative controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
